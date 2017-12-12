@@ -3,7 +3,7 @@
 #ifndef AVR_PINOUT_H
 #define AVR_PINOUT_H
 
-#include"AVR_PINOUT.h"
+#include"Microcontrollers-Atmega8515-162-pin-out-configuration.h"
 #else
 #include"Arduino.h"
 #include<avr/io.h>
